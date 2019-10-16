@@ -1,0 +1,33 @@
+/* Background color */
+body {
+    background-color: lightblue;
+}
+
+/* color the headings and paragraph*/
+.colorUs {
+    color: darkblue;
+}
+
+/*color the list*/
+#A {
+    color: brown;
+}
+
+#B {
+    color:green;
+}
+
+#C {
+    color: darkorange;
+}
+
+ h1 {
+     border: 3px solid brown;
+     text-align: center;
+     
+     
+ }
+
+ .img1 {
+	width: 100%;
+}
